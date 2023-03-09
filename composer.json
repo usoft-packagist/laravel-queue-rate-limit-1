@@ -1,5 +1,5 @@
 {
-    "name": "mxl/laravel-queue-rate-limit",
+    "name": "usoft-packagist/laravel-queue-rate-limit",
     "description": "Simple Laravel queue rate limiting",
     "keywords": [
         "queue",
